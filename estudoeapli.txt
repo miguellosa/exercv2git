@@ -1,3 +1,2 @@
 Controlo de Versões 
 git
-openup
